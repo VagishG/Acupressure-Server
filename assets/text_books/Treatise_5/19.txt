@@ -1,0 +1,39 @@
+Liver
+
+Liver has following parts treatment points related to thses parts are given below :
+
+a tiv Central Venous System of Liver
+
+ag Liv2 Liver Lobuli System
+
+0 Liv2a Interlobula Bile Ducts
+
+a Liv3 Perivascular & Periportal System of liver.
+
+Liver controls the posterior wall of Bursa omentalis through point No. Liv 10.
+
+It is the measurement point for the synovial fluid of posterior wall of Bursa omentalis
+which connects the bowels with the abdomen.
+
+Control Measurement Point
+
+Oo lLivta CMP of Liver
+Nerve Supply
+ia ‘St 22 (R) Right Upper Gastric Plexus of the sympathetic nerve
+It innervates stomach & liver.
+ia] St 44c (R) Right Coeliac Plexus.
+Lymph of Liver
+ia} Liv 14 Lymphatic Net of Liver
+a Liv Ib Lymphatics of Liver
+o ly1 SMP for Lymphatic process in the area including liver.
+a UB 42 Lymph of Liver
+ia] Sp 18/Pn 18 Lymph nodes of liver
+GO Sp 16/Pn 16 Right gastric Lymph. Nodes.
+Peritoneum
+ia) Liv1b MP Serous (Peritoneal) membrane of liver & lymphatics of liver.
+
+000
+
+A Treatise on 15
+Advance Acupressure / Acupuncture - Part 5 - English
+

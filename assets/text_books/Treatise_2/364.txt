@@ -1,0 +1,58 @@
+0
+a
+a
+
+Spasm near navel
+Mania and depression
+Feeling bore
+
+Treatment of Liver Cosntitution Patient :
+
+C_sIfthere is tension and heaviness on midriff and Small Ribs.
+Treat : Liv1
+
+G_sIfpatient has Fever, Insomnia, Mania.
+Treat : Liv2
+
+O If patient has pain, spasm and heaviness in extremities.
+Treat : Liv3
+
+CsI patient some times feels cold, or sometimes heat, breath heavily.
+Treat : Liv4
+
+G_sItpatient has contravection of Qi, as diarrhea, vomiting, hiccup, belching and
+patient will feel cold extrimities but warm in head.
+Treat : Li8
+
+Heart Constitution Patient :
+
+Symptoms :
+
+O Fastand superficial pulse
+
+0 Nausea
+
+O Hottempered
+
+G-Painon Solar Plexus
+
+GO Hotpalms
+
+oO Hiccup
+
+© -Pain belownavel and profuse sweating
+
+Treatment:
+
+CO _sIf patient feels heaviness, pain or breathing trouble in Midriff.
+Treat : H9
+
+C_sIfpatientis suffering from Fever with midriff pain.
+Treat : H8
+
+G_sIfpatient feels heaviness in hands and feet with joints pain.
+Treat: H7
+
+A Treatise on
+Advance Acupressure / Acupuncture: - Part 2
+

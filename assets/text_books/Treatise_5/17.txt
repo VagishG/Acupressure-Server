@@ -1,0 +1,30 @@
+Pancreas
+
+Description of treatment points related to function of pancreas.
+Functions of Pancreas :
+
+a Pn 1 (R) Protein (Albumin) Digestion & Metabolism
+a Pn 1 a(R) CMP for exocrine & endocrine function of pancreas.
+Oo Pn2(R) Uric Acid Metabolisim & Synthesis
+a Pn 3 (R) Carbohydrate Metabolism & diagestion (Diabetes)
+a Pn 4 (R) Fat or Lipid Digestion & Metabolism (Cholestrol Metabolism)
+Control Measurement Point
+a Pn 1 a(R) CMP for Pancreas.
+Lymph
+o Ly 11 (R) SMP Lymphatic Process in Pancreas
+ao Pn 21 (R) Lymphatic Net & Nodes of Pancreas
+a UB 44 (R) Lymph of Pancreas
+O Pn15 Lymph Nodes of Pancreas & Duodenal lymph nodes.
+Special Note :
+
+It is an important point for the treatment of infection, injuries, cyst, tumor and cancer of
+pancreas & duodenum.
+
+Peritoneum
+ao Pnib SMP for Peritoneum of Pancreas.
+
+oo0
+
+re a
+Advance Acupressure / Acupuncture - Part 5 - English
+

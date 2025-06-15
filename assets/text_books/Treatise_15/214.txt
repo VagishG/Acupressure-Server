@@ -1,0 +1,41 @@
+28)
+
+Electric Shock :
+
+GV 25,P6,K1
+
+Dysentry :
+
+Liv6, Sp 6, CV 12, 6, St 11, 28, 36, 39, K21, Tw5, P6, GV 1,K7, UB62, Li4, Liv2, GB26
+
+Acute dysentry St25, 37 J both
+
+Blood in stool K7, Liv 3, UB 50
+
+Odontalgia Li4, 11, St6, Liv2, Si17
+
+Add for pyorrhea St 8, Li 17, Tw 17, GB7, 20
+
+Hernia, colic UB 22, 24, 25, 26, St25, Liv2 yall
+
+Stomatitis St4, 6, Li4, 10, 11, Si15, GV 12, 14, UB 10, GB 12, 20, 21
+tall
+
+Hernia:
+
+Group! : GV 1,4, 12, St36, 40, 44, GB 20, CV4, 12, Lu1, UB 17, 21 Tall
+Group! : —_Liv3,8,St30 Tall
+
+35) Polycythemia (increase in number of R.B.C.)
+GV 12, 14, 28, P 3, Lu5, GB 21, UB 18, 20, 21, 54, 57, Li4
+36) Non TB lymphatic gland swelling: UB 18, GB 21
+37) Non venereal groin & abdominal lymphatic swelling: +UB54
+38) Spleen swelling UB 20, 44, 46
+39) a) Ascites St28, 36, Sp 9, CV9
+b) Acites due to rheumatic heartdisease : CV 2,3,9,K5,Sp6,GB39,K7
+40) Chronic pelveoperitonites CV 4, Sp9Q, 10 Lall
+41) Spasm of diaphragm UB 17, CV 17, 22, St36, CV 14
+42) Enlargement of spleen & liver due to schistosomiasis
+Liv 13, 14, UB 21, Pigen
+48) Nervous dysfunction of stomach P6, St21, 34
+

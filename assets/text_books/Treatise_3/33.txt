@@ -1,0 +1,5 @@
+EAV Points related to Tissues
+(Fat, Fib, JD, SK)
+
+SK1 Fib.D1
+

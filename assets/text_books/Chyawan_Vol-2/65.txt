@@ -1,0 +1,8 @@
+2) Right Ankle Injury :
+3 NCH (8) Region? - 3,4,945,6,0f
+(See Handbook 1st, Page No. 105)
+
+3) Right Hip Injury:
+$e NCH (5) Toe - 3,4,945,6,0f
+(See Handbook 1st, Page No. 105)
+

@@ -1,0 +1,37 @@
+8. Lungs Constitution Patient :
+
+Symptoms:
+© Slowsuperficial pulse
+© Cough
+0 Breathing trouble
+| Chattering
+O_ Stiffness in right abdomen which increase due to giving pressure
+Treatment :
+G_sIf heaviness on midriff and trouble in breathing out.
+Treat : Lu 11
+OFeverwith breathing out trouble and burning eyes.
+Treat : Lu 10
+G_sIfpatientis feeling tiredness and heaviness in extremities.
+Treat : Lug
+With inconsistence of temperature, hot palms and coughing.
+Treat : Lu8
+Gif there is contravection of Qi as belching, hiccup, loose motion, trembling
+extremities, back and sole pain.
+Treat : Lu5
+9. Urinary Bladder Constitution Patient :
+Symptoms :
+OG Slowpulse
+GBlackish face
+Suspicious
+GO Fearful
+Treatment :
+0 sIfpatient has solar plexus pain and tension.
+Treat : UB 67
+If vagina of female is turned inside.
+Treat : UB67
+| With fever.
+Treat : UB66
+
+A Treatise on
+Advance Acupressure / Acupuncture: - Part 2
+

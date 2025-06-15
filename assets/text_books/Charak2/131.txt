@@ -1,0 +1,6 @@
+(vi) Rt temporal lobe :
+RtRFallRLHM(OF) - 4,5, 94.3, 6, 0
+
+(vii) Lt occipital lobe :
+LtSFallRLHM(OF) - 4,5, 3,6, 07
+

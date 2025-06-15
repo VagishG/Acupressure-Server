@@ -1,0 +1,14 @@
+Wood insults Metal
+Metal insults Fire
+Fire insults Water
+
+Water insults Earth
+Earth insults Wood
+
+This takes place when the balance is broken. The controlled element becomes much
+more powerful than the controlling element.
+
+Each element can be imbalanced in four ways :
+i) The elementis in excess & overacts on the controlled element.
+ii) The elementis deficient & is insulted by the controller element.
+

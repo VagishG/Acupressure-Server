@@ -1,0 +1,10 @@
+5 Platelet Count Less Than 1,50,000
+
+(ecrel Disc HA) :
+RtRF9thSpr - 3,4,910,5,6T
+LtRF 0 Spr - 3,4,910,5,67
+
+Colour eee
+Therapy
+
+70

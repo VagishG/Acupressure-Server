@@ -1,0 +1,10 @@
+(24) Ear Diseases :
+(a) Swelling and pain in right ear -
+
+LMM * 1 Br. (O flow) 1,7, 0f 2,3,91
+(b) Swelling and pain in left ear -
+LMM * 2 Br. (O flow) 1,7,07 2,3,91
+
+(c) Pus in Right Ear :
+LMM * 1 Br. (O flow) 3,0f 4,91
+

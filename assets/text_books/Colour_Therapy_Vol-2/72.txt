@@ -1,0 +1,12 @@
+Tremors with Poor Gripping (Left Hand)
+(a arr A aa) :
+LtRF(0,9)Spr —- 6,810,57T
+
+Tremors with Poor Gripping (Right Hand)
+(ae array ee) :
+RtRF (0,9)Spr - 6,810,57T
+
+Colour eee
+Therapy
+
+74

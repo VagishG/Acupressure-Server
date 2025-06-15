@@ -1,0 +1,73 @@
+900 g2ganonnaAngaonnaAaAaAAaaAoOaAaAoOaAAA
+
+Qo0a
+
+List of Control Measurement Points
+
+Lu10c CMP for Lung
+
+Lilb CMP for whole of large Intestine
+
+Ci8d = CMP forcirculation (Itincludes circulation of arteries, veins, lymphs etc.)
+
+TW Ib — CMP for for endocrine gland, pancreas & mammary gland.
+
+H8c CMP for Heart
+
+Silb CMP for small intestine
+
+Sp 1a (L) CMP for Spleen
+
+Pnia CMP for Pancreas (Exocrine & Endocrine functions)
+
+Liv1a CMP for Liver
+
+St44b CMP for Stomach
+
+GB 43b CMP for Gall Bladder
+
+K 1-3 CMP for Kidney & Ureter
+
+UB 66b CMP for urinary Bladder & Urogenital organs
+
+UB 2a CMP for Brain Stem
+
+GV 23-1 CMP for Cerebrum
+
+GV 23-la CMP organ Degeneration of Entire body
+
+GV 23-2 CMP Limbic System
+
+Ly1-2 CMP for Five Types of Tonsil
+
+ND1b CMP for Nerve Degeneration of Peripherial & Nervous system.
+
+ND 3a_—_ CMP for Nerve Degeneration of Parasympathetic Ganglion of the Head
+
+ND4 CMP for Nerve Degeneration of Cranial Nerve
+
+Adib — CMP for Allergy process throughout the body
+
+Or Ib CMP for organ Degeneration of entire organ system excluding
+endocrine Gland & Mammary glands.
+
+JD1b CMP for all Joints including the spinal Vertebrae.
+
+Fib D1 b CMP (1) for Fibroid Degeneration of tne organs of the body
+
+Fib Dic CMP (2) for Fibroid Degeneration of the mucous membranes of the
+whole body.
+
+SK 1-3 CMP for the skin of the whole body.
+
+Fat Dib CMP for Fatty degeneration of the organs & vessels of the whole body
+
+N. B. CMP Spleen in left side only & CMP Pancreas in right side only all
+
+.other CMPs are bilateral.
+
+(22 )
+
+A Treatise on
+Advance Acupressure / Acupuncture - Part 5 - English
+

@@ -1,0 +1,27 @@
+Classification of Spinal Nerves on RMM :
+
+RMM * - 0
+RMM sr -1
+RMM +r - 2
+RMM sx -3
+RMM *-4
+RMM st - 5
+_ RMM *-6
+RMM st -7
+RMM st - 8
+RMM x -9
+
+Coccyx +S, +S,
+S,+S, +58,
+L,+L,+L,
+L,+L,+D,
+Dy, +DytD,
+D,+D,+D,
+D,+D,+D,
+D,+D,+C,
+C,+C,+C,
+C,+C,+C,
+
+In the above table, for related nerves, treatment is given using normal Q SM.
+
+Charak -3 Ayurvedic Acupressure 142

@@ -1,0 +1,43 @@
+Q Tw16a-2 M. P. Mastoid Cells.
+Q Twi7a M. P. Labyrinth.
+Q Twi7b M. P. Cochlear
+
+In EAV following 14 points are redefined in Tripple Warmer Meridian which
+increases their usefulness :
+
+Q Tw1 PSMP Gonads and Supra Renal Glands.
+Q Tw2 PSMP Parathyroid, Thyroid and Thymus.
+Q Tw3 PSMP Pituitary and Pineal Glands.
+
+Q Tw4 MP Distal Portion of Wrist.
+
+Q Tw14 MP Collar Bone Joint.
+
+Q Tw15 SMP Joints of Upper Extremities.
+
+Q Twt6 MP Anterior Lobe of Pituitary Gland.
+
+Q Twi7 SMP Middle Ear.
+
+Q Tw18 SMP Inner Ear.
+
+Q Tw19 MP Meninges.
+
+Q Tw20 MP Hypothalamus.
+
+Q Tw21 PSMP Anterior Eye.
+
+Q Tw22 MP Glossopharyngeal Nerve IX.
+
+Q Tw23 MP Superior Tempora Mandibular Joint.
+
+In EAV there is one plexus which affects Tripple Warmer :
+Super Renal Plexus.
+
+This plexus is in Kidney Meridian
+
+This Meridian innervates :
+
+i) Adrenal Gland
+
+ii) Gonads

@@ -1,0 +1,39 @@
+Treatment of Salivary Glands
+
+ao s3 MP Parotid gland
+oO st3-3 MP Sublingual gland
+OG CV23b MP Sublingual gland
+oO cvV23a MP Tongue
+Oo st8a MP Submandibular Gland
+o ste Auxillary Point
+
+MP 4th upper Jaw Section for upper 6th & 7th teeth.
+o st7 SMP Auxillary Point
+
+Lateral Maxillary portion of upper Jaw
+Oo st12 Carotid Sinus
+
+Communal Carotid artery
+
+Jugular Veins
+
+Lymph of Salivary Glands
+
+Go Twi6a MP Deep Cervical Lymph nodes of head region.
+o ly4a R.P. Lymph drainage of Esophagus
+Oo Ly4b R.P. Lymph drainage of Larynx & Hypopharynx
+G St10b Juglar Lymphatic trunk.
+Gg Ly10b Cervical part of Lymphatic Trunk of Thoracic duct
+Some treatment protocols :
+
+To increase saliva :
+
+Sp 19, Li2, 3, Lu5, 11,P.3,7
+
+To decrease saliva: K 18,Li18, St39, 40, Sp9, CV 23, 24
+
+Q00
+
+A Treatise on (25 )
+Advance Acupressure / Acupuncture - Part 15 - English
+

@@ -1,0 +1,60 @@
+0 If patient has fever which ups and downs with breathing trouble.
+Treat : H4
+
+0 If patient has contravection of Qi - like belching, hiccup, nausea, diarrhoea,
+headache, hot palm.
+Treat : H3
+
+4. Smallintestine Constitution Patient :
+
+Symptoms:
+
+G Fastand superficial pulse
+
+© Flourished face
+
+0 Drymouth
+
+Social
+
+© Laughing nature
+
+Treatment :
+
+© sIf patient feels heaviness in Midriff. Sometimes heaviness goes immediately as
+pressing Si 1 on right.
+Treat : Si1
+
+GsIfpatientis suffering from fever with midriff pain.
+Treat : Si2
+
+OG With heaviness in extremities with joint pain.
+Treat : Si3
+
+O Ifpatient has breathlessness and coughing and irregular fever, sometime feeling
+hot, sometime cold.
+Treat : Si5
+
+0 sIf due to contravection of Qi, there is vomiting, belching, hiccup, nausea.
+Treat : Si8
+
+0 sIf patients feeling weakness.
+
+Treat : Si4 (Organ Source Point)
+
+5. Stomach Constitution Patient :
+Symptoms:
+
+a
+a
+a
+
+Slow and superficial pulse
+Pale colour and pale fluids
+Belching continuously
+
+(4)
+
+A Treatise on
+Advance Acupressure / Acupuncture- - Part 2 )
+

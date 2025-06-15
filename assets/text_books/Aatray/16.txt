@@ -1,0 +1,8 @@
+(17) Disturbance of Biological Clock (Sleeping in day time, Awake in night) :
+(Sleeping in Day) RMM +x 7t BL
+(Awake at Night) LMM > st 71
+
+(18) Mentally Retarded :
+(a) Poor understanding -
+LMM s& 3,87 4,71
+

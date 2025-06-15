@@ -1,0 +1,5 @@
+(ii) Rt frontal lobe :
+RtlallRLHM(OF) -  4.5,943,6,0f
+
+(iii) Lt Parietal lobe :
+LtMFallRLHM(OF) - 4, 5, 9.3, 6, oF

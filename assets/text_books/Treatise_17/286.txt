@@ -1,0 +1,21 @@
+Dizziness
+
+A treatment of head spinning :
+
+GB 16, UB 8, GV 20, UB62 Jal
+
+Drug induced dizziness :
+
+GV 15, Li4, GB 20, GV 20, Tw9, Yiming (Ex) all
+Head spinning & ringing inears: UB8J
+
+Dizziness : UB 13, 58 + both
+Dizziness & headache :Si 7, UB 22 4 both
+Remarks :
+
+e During attack of dizziness, reduce water and salt intake.
+
+e Acupressure treatment is effective in the treatment of vertigo, dizziness &
+meniere's disease.
+
+Q00

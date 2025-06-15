@@ -1,0 +1,57 @@
+Case No.-15
+
+Therapist
+Patient
+Age
+Address
+Phone
+
+Symptoms
+
+History
+
+Protocol
+
+DMD & Difficulty in Sitting
+
+Shri Abhishek
+
+Master Navadeep
+
+9 years
+
+Village - Motikhurd, post - Rajapur, Disrt. - Patiyala, Panjab.
+09417851538
+
+ahWN =
+
+Difficulty in sitting
+
+Unbalanced body (falls easily)
+
+Exess saliva
+
+Indigestion
+
+Obesity (45 Kgs.)
+
+Electromyography (23.6.01)
+
+Rt delted - Rt querdiceps
+
+Rt ext dig & bre
+
+- constant with DMD
+
+DMD - gene analysis (23.5.08)
+
+done for presence of exons
+
+shows that none of the exons
+
+tested for have any deletion.
+Both IF 3/4, 5/6, 7/8 LHM —
+
+Both SF all phalanx -
+
+4,5, 94 3,6, 07

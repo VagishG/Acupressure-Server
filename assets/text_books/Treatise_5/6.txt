@@ -1,0 +1,46 @@
+Large Intestine
+
+Large intestine has following parts, treatment point related to these parts are given
+
+below.
+
+QnouaaaaaaaaAa|A
+
+Qa0aenu0.coNdaad
+
+gaa
+
+Li 4(R) Caecum (It connect small intestine and large intestine)
+Li4 a(R) Appendix
+Li 3 (R) Ascending Colon
+Li 2 (R) Rt flexure of colon
+Li 1 (R) Transverse Colon (Right Part)
+Li4(L) Transverse Colon (Left Part)
+Li3(L) Left Flexure of Colon
+Li2(L) Descending Colon
+Li1(l) Sigmoid Colon
+K6 Rectum
+K5 Anal Canal
+K4a Anal Sphincter
+
+Lymph Vessel of Large Intestine
+Ly7 (L) MP Intestinal Lymphatic Trunk.
+Ly 7(R) MP Mesentric Lymph Nodes
+
+ly8 | Lymph drainage of rectum & anal canal with lymph nodes.
+K-6a
+
+Li 1-1 (R) Lymph Vessel of Caecum & Colon
+Li 1-1 (L) Lymph Vessel of colon & Sigmoid colon.
+UB 49 MP Lymph of Rectum
+
+SMP for Lymphatic system of lumbar & sacral region.
+Nerve Supply of Large Intestine
+
+Li1a(R) Superior Hypogastric Plexus
+Lita(L) lliac Plexus & femoral Plexus & Popliteal Plexus.
+Si 1a (R) Upper Mesentric Plexus
+
+A Treatise on ( 103 )
+Advance Acupressure / Acupuncture - Part 5 - English
+

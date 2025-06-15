@@ -1,0 +1,34 @@
+Urinary Bladder
+
+These are following parts in urinary bladder treatment points related to these parts are
+given below:
+
+a LIB66 Trigomen vesicae body of the bladder
+Neck of bladder
+Vesical sphincter
+o UB 67 Body of urinary Bladder
+a UB 65 PSMP for Anterior & Posterior portion of urethra
+oa UB 52 Anterior portion of Urethra
+GO UBSta Posterior portion of Urethra
+a UB 30 Sphincter muscle of urinary Bladder
+Control Measurement Point
+a UB 66b CMP for Urinary Bladder.
+CMP for Urogenital organs
+Lymph
+a UB 66d Lymphatic Drainage of the urinary bladder
+
+a Sp 13/Pn 13 Lymphatic net of Urethra.
+a Sp 13b/Pn 13b Lymphatic net of lower abdomen
+Peritoneum
+a UB 66a Peritoneum a serous coating of urinary bladder.
+Nerve supply
+O UB66c Vesical Plexus
+It innervates :
+Ureter
+Pelvic portion
+Urinary Bladder
+O UB63 Lower Hypogastric Plexus
+
+A Treatise on (423 )
+Advance Acupressure / Acupuncture - Part 5 - English
+

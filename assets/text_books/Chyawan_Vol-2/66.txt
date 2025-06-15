@@ -1,0 +1,8 @@
+4) Right Shoulder Joint Injury :
+WNCH(1)Region2 - 3,4,945,6,0f
+(See Handbook 1st, Page No. 105)
+
+5) Right Elbow Joint Injury :
+NCH (4)Region3 - 3,4,945,6,0f
+(See Handbook 1st, Page No. 105)
+

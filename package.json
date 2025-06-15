@@ -1,0 +1,33 @@
+{
+  "name": "accupressure",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "^1.2.16"
+  },
+  "scripts": {
+    "dev": " bun --hot run index.ts",
+    "production": "bun run index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/cookie-parser": "^1.4.9",
+    "@types/cors": "^2.8.19",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "firebase": "^11.9.1",
+    "firebase-admin": "^13.4.0",
+    "fs-extra": "^11.3.0",
+    "fuse.js": "^7.1.0",
+    "fusejs": "^1.4.3",
+    "nanoid": "^5.1.5",
+    "sharp": "^0.34.2"
+  }
+}

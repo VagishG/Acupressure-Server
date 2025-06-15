@@ -1,0 +1,44 @@
+Appendicitis :
+
+Oo Li4a(R) L M.P. appendix & ilioceacal lymph nodes
+oO si1(R) 4 Terminal portion of ileum
+GO Sitc(R) L Serous membrane point of terminal ileum
+G Litc(R) L Peritoneum Measurement point of the large
+intestine region
+ag st25 4 Alarm point of large intestine
+ogo st36 L Earth point of stomach meridian
+Adhesion after appendicitis :
+GO Sitc&Llite Y Peritoneum Measurement point of the large
+
+intestine and small intestine.
+Treatment here the scar adhesion after the operation of appendix.
+
+Mammary Gland
+
+ao Ww3 L P-S.M.P. Pitutary Gland
+
+o wid 1 M.P. Mammary Gland
+
+Oo Sst4ta B M.P. Mammary Gland
+
+GO Twib 4 C.M.P. Endocrine system & internal secretions
+of mammary glands.
+
+oO sti7 L M.P. Mammary Gland
+
+a sti6é L M.P. Thoracic Portion of Vagus Nerve
+
+Method of balancing the autonomic steering of heart.
+{i) Sympathetic portion :
+
+go H8e Cardiac Plexus
+GO UB 10a,b&c Upper, Middle & Lower Cervical Ganglion
+ogo Civa Coronary Plexus of Heart
+(ii) Vagotonic Portion :
+oO sti6é M.P. Thoracic part of Vagus Nerve
+a St18 M.P. Pulmonary Plexus
+oO sis M.P. Esophageal Plexus
+
+A Treatise on - 213
+Advance Acupressure / Acupuncture - Part 5- English
+

@@ -1,0 +1,55 @@
+CASE - 19
+Therapist
+Patient
+Age
+Address
+
+Disease & Prob. :
+
+Treatment
+
+Result
+
+Case - 20
+Therapist
+Patient
+Age
+Address
+
+Disease & Prob. :
+
+Sri Sanjay Kumar Maurya
+
+Smt. Lalita Josi
+
+45 Years
+
+27/2, Malara Gate, Naini, Allahabad
+
+Pain in left hand of the patient, Insomnia
+from 3 months, during inspection the
+patient began to weep.
+
+Treatment was given by colours on the
+following points.
+
+1) LiT Vill (Li-4) Clack Colour
+Lil Vil Li-7) | Black Colour
+2) SiT Vill (Si-4) Black Colour
+Sil Vil (Si-6) Black Colour
+3) H TVIIl (H-7) Black Colour
+H tVI (H-6) Black Colour
+
+After treatment relax in hand pain and
+good sleep.
+
+Sri Mahendra Middha
+
+Sri Rohit Kapoor
+
+20 Years
+
+C-46, Rajajipuram, Lucknow
+Sinustis, tonsils, generally cold.
+
+107

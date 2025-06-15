@@ -1,0 +1,49 @@
+15) Radial aspect of wrist painful and immobile :
+
+16) Weakness of palmer flexion of wrist
+
+17) Weakness of dorsal flexion of wrist
+(Wrist Drop)
+
+18) Radial Nerve Paralysis
+
+19) Medial Nerve Paralysis
+
+20) Ulnar Nerve Paralysis
+
+21) Neuralgia in Wrist and Fingers
+
+22) Stiffness in Wrist
+
+23) Sprain of Wrist
+
+24) Wrist Drop
+
+25) Pain in the wrist without swelling
+
+26) Polyneuritis of Wrist
+
+27) Motor point to extend, abduct the wrist joint :
+
+28) Shaking wrist
+29) Flaccid wrist
+30) Contracture of wrist
+
+List
+P4,5,Lu6t
+
+Li 10,9, 6, Tw5,6T
+Li5, 11, Jinghi (Ex) T
+P6,77
+si7,8t
+Si 10,114
+Si 10, 11, 15, Li 16, Tw 154
+Tw4,54
+Si6, Li4, Tw4, 5,97
+Tw3, 4, 5, Si5, Li4, 5, Lu9, 74
+Tw5,P7,Li4, Si3
+Lu 10%
+Li11,P5,H3,8%
+Lu5,Li11,47
+P7d
+Q00

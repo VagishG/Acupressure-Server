@@ -1,0 +1,19 @@
+Ten Spiral Meridians (Location Chart)
+(Spm - Opposite Flow)
+
+4 1 0 2 3 6
+VM | VM | VM | VM | VM | VM
+(OF)| (OF) | (OF) | (OF) |(OF)
+! 4 5 8 9 7 6 3 2
+4 5 8 9 7 6 3 2 0
+
+Example - To. locate any point on 3 Spm (OF) -
+a) Goto spiral meridian - row 4 (3° Spm-OF)
+
+b) To locate point No. 7 on 3 Spm (OF) - search in row of 3" Spm (OF), the
+No. 7. It is in the column of 8" VM (OF). So 7" point of 34 Spm (OF) will be
+7” pt. of 6 VM (OF).
+
+Similarly 5 point of 34 Spm (OF) is the 5" point of 0 VM (OF) as shown in
+the chart above.
+

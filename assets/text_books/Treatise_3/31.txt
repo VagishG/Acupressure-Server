@@ -1,0 +1,58 @@
+Hieasurement Point [Fors SOSCSCSCS
+
+Ly 1 (+ Tw 16a, St 8b) Palatine Tonsil + Lymph of deep cervical nodes
+Ly 1a (+Li 18) Tubal Tonsil
+Laryngeal Tonsil (Li 17)
+
+Pharyngeal Tonsil (Li 18-2, CV 23c)
+Lingual Tonsil (St 3a)
+
+Ly 1-1 Auricular Lymph Gland
+
+Ly 1-2 (CMP) Lymph Vessel (5 Tonsils)
+
+Ly 2 (CMP) Teeth + Jaws (St 7/8, CV 24, GV 25)
+Ly 2a (+ Orbit) Lymph drainage of the eye
+
+Ly 3 (CMP) Sinuses (+ Nose + UB 1)
+
+Ly 4 (St 12b + Sp 19) Lung lymph drainage (+ Sp 20)
+
+Ly 4a Oesophagus lymph drainage
+
+Ly 4b (Li 17, CV 21) Larynx and pharynx lymph drainage
+Ly5 Lymph of Heart
+
+Ly 11 (SMP) + P 7b Lymphatic System
+
+Ly 13 Sphenoid + Ethmoid sinus (UB 1, St 2, Li 20)
+Ly 14 Maxillary + Frontal Sinus (UB 2, St 5)
+
+Nasal Cavity (GV 23a, 25, 27)
+Nerves of lower limb (lumbar / sacral marrow)
+Entire autonomic nervous system
+
+Nerve degeneration (Peripheral + Central N.S.)
+Meninges (+ Spinal Marrow)
+
+Cervical and Thoracic Nerves (+ Marrow)
+Brain stem and cerebrum
+
+ND 1 (+ UB 61, 58)
+
+ND 1a (SMP) (+ St 10a, GB20)
+ND 1b (CMP)
+
+ND 1c (+ Tw 19)
+
+ND 2 (+ Si6)
+
+ND 3 (+ UB 2a)
+
+ND 3a (CMP)
+
+ND 4 (CMP)
+
+Parasym. ganglia of head
+Cranial Nerves (Vagus GB 11b)
+

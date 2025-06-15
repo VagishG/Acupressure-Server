@@ -1,0 +1,53 @@
+Region of lungs CV 17, 22, UB 13
+
+Region of heart UB 14, 15, CV 17
+Region of stomach UB 21, CV 12
+
+Region of hypogastrium UB 18, 19
+
+Region of central or St 25, CV 4, UB 25, 27
+Lower abodmen
+
+Region of kidneys UB 23, 47
+
+Region of urinary bladder CV 3, UB 32
+
+Region of genitals CV3,4
+
+Region of anus GV 1, UB49
+
+Region of upper extremities Li4, 11,15
+
+Region of elbow Li 10, 11
+
+Region of wrist Tw4,5
+
+Region of lower extremitis GB 30, 34, 39, UB 54
+Region of knee St 35, GB 34
+
+Lumbar region UB 54
+
+In chronic disease : add back shu points (ie & a along with local points and rnajor
+distal points.
+
+Major distal points :
+
+Lid A A el aw & wh an & Iga & fed)
+
+P6 GR a ah aw & at aml & saa & fea
+
+St36 te (ay 8 sam ae) & unl & soar & fa
+
+Sp6 Ay a ate aw & at ant cen perinial area yer ae buttuck qs & wet ah
+& aca & fer
+
+Lu7 mé7 a aR do & ant & soar & fers
+
+UB 54 @AK cen Fem vd Ae & Awavg H al & saa o fea
+
+Other specific distal points :
+
+St 38 Specific distal point for shoulder pain
+
+St 40 Specific distal point for sputum (kapha)
+

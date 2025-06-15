@@ -1,0 +1,9 @@
+iii) Right Lower Quadrant 8th Tooth Bleeding :
+tx NCH (0) Toe — 3, 4,945, 6, 0T
+
+iv) Left Upper Quadrant 8th Tooth Bleeding :
+% NCH (9) — 3,4,945, 6, OT
+
+v) Left Lower Quadrant 8th Tooth Bleeding :
+# NCH (9) Toe — 3, 4,945, 6, OF
+

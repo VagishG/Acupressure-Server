@@ -1,0 +1,31 @@
+Add For:
+
+Humidity Symptoms. Si3
+Wind Symptoms GB20
+Hotness Symptoms Si2, UB 66
+Coldness Symptoms UB 60 (do Moxa)
+Any Problem of Nose
+Yang Ming Axis (Li & St Channel Axis) :
+Treatment :
+Li Channel Li4, 11, 19, 20
+St Channel St45
+Local Point GV25
+Special Point UB7
+Any Problem of Mouth
+Yang Ming Axis (Li & St Channel Axis)
+Treatment :
+LiChannel Li4
+St Channel St4,6, 7,44
+Local Point Si17
+Any Problem of Ear
+Shao Yang Axis (Tw & GB Channel Axis) :
+Treatment:
+TwChannel Tw3,5
+GB Channel GB41
+Local Points GB 2, Si 17, 19, Tw 17, 18, 19
+
+Q00
+
+A Treatise on
+Advance Acupressure / Acupuncture- - Part 2
+

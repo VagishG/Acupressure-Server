@@ -1,0 +1,26 @@
+Add day wise treatment (Time Acupuncture) :
+
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+
+¥& NCH (0) -
+Wk NCH (1) -
+¥& NCH (2) -
+¥ NCH (3) -
+¥ NCH (4) -
+¥ NCH (5) -
+¥& NCH (6) -
+
+2,3,4,91 0,5,6T
+2,3,4,9) 0,5,6T
+2,3,4,94 0,5,6T
+2,3,4,94 0,5,67
+2,3,4,91 0,5,67
+2,3,4.91 0,5,6T
+2,3,4,94 0,5,6T
+

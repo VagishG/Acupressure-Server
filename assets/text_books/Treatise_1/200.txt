@@ -1,0 +1,63 @@
+57.
+
+61.
+
+8
+
+Sneezing
+
+Sore Throat
+
+Sweating (excess)
+Sweating during sleep
+Swallowing difficulty
+Spermatorrhea
+Spasm of calves
+Throat occlusion
+
+Toothache
+Tranquiliser
+Torticollis
+Pain in Spinal Column
+T1itoT7
+T8toL2
+L2toS4
+Tail Bone
+Urine-Retention
+Urine-Incontinence
+
+Y
+
+< #2
+
+Common .-
+
+Li20,P 6, Ex1
+Si17,Li18
+
+Li4,K7,H6
+
+Si3
+
+Li4, St15, CV23, Lu 11,K6
+CV4, Sp6
+
+UB57
+
+K6, Lu 11, Sp6, St36, CV 22.
+Li4, Lite
+
+Li1Li4, t44, St6, 7,GB20,K3
+Gv 20
+
+Lu7, Si3, S16, GB34
+
+UB 60, GB 40
+
+UB 54, GB 40, K7
+UB 51, GB 38, K7
+GB 40
+
+Sp6,9, CV 4
+
+Sp 6, CV2

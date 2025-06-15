@@ -1,0 +1,10 @@
+Add Day wise Treatment (Time Acupuncture) :
+-Sunday %NCH(0)- 2,445, 6%
+-Monday *NCH(1)- 2,445, 6t
+-Tuesday *%NCH(2)- 2,445, 6T
+- Wednesday * NCH (3) - 2, 4V.5, 6t
+-Thursday x NCH (4) - 2, 405, 6t
+-Friday %* NCH(5)- 2,415, 6¢
+-Saturday x NCH (6) - 2, 4V5, 6t
+
+{59]

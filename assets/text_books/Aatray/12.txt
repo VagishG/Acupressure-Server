@@ -1,0 +1,16 @@
+(11) Frozen Shoulder :
+
+(a) Rtside
+LMM * 1,4Br.(Oflow)  3,6,0T 2,4,9)
+(b) Lt side
+
+LMM % 2, 3 Br. (O flow) 3,6, 07 2,4, 91
+
+(12) Numbness of Fingers of Hand :
+
+(a) Rt side
+RMM % 9 Br. (N flow) 2,6,07 1,4,91
+(b) Lt side
+
+LMM ¥x 9 Br. (N flow) 2,6,0T 1,4,91
+

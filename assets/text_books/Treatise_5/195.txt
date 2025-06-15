@@ -1,0 +1,12 @@
+SKIN OF UPPER EXTREMITIES
+Sk2 MP skin of upper part of body including skin of upper extremities
+Sk 1-3. CMP for skin of the whole body
+Sk1a MP for scars on the skin
+Sk 1-1 MP for lymph vessel of skin
+Sk 1-2 MP for allergic reaction of skin (In this case also treat allergy points)
+FATTY DEGENERATION OF UPPER EXTREMITIES
+
+FatD2 MP Fat Degeneration of organs & vessels in chest including upper
+extremities.
+
+Fat Dib CMP Fatty Degeneration of organs & vessels of the whole body a

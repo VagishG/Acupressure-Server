@@ -1,0 +1,78 @@
+3) Veins of Lower Extremities
+
+a
+
+gQQagvaQo0 da a
+
+a
+
+gaaqa a
+
+Qgoaa
+
+Sp 10/Pn 10
+
+Sp 9/Pn 9
+
+St33
+AD 1c
+Liv7
+
+AD 1a
+
+Sp8
+GB 34
+
+MP Veins of Pelvis
+
+Treat Thrombosis of Leg Veins.
+
+MP Lymph Vessel of Lower Extremities
+Treat thrombosis of Leg Veins here.
+MP Veins of Abdomen
+
+SMP for Arterial & Vascular Sclerosis
+MP Veins of Lower Extremity
+
+MP Vascular Sclerosis
+
+Muscles of Lower Extremity
+
+MP Muscles of Lower Extremity
+SMP Muscles of Lower Extremity
+
+Lymph Drainage of Lower Extremity
+
+Ly 12
+Sp9
+
+GB 33
+JD1
+
+JD 1b
+St30
+Sp tia/Pnita
+GB 29
+
+Liv8
+St35
+UB 54
+
+SMP Lymph Vessel of Spine & Lumbar 1, 4,5
+MP Lymph Vessel of Lower Extremity
+Joints of Lower Extremity
+SMP Joints of Lower Extremity
+MP Joint degeneration of Lower Extremity
+Hip Joint
+CMP for all joints of the body.
+First MP Hip Joint
+Second MP Hip Joint
+Third MP Hip Joint
+Knee Joint
+First MP Knee Joint
+Second MP for knee Joint
+Third MP for knee Joint (posterior)
+
+A Treatise on 83
+Advance Acupressure / Acupuncture - Part 5 - English
+

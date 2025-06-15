@@ -1,0 +1,44 @@
+0 UBS4 Posterior knee joint.
+
+GO UB52 anterior portion of urethra.
+
+Oo UBS1 Penis or vagina.
+
+OG UBS50 Lateral prostrate, body of uterus.
+
+Oo UB35 Sacral portion of parasympathetic nerve.
+
+O UB34 Pelvis plexus of the parasympathetic Nerve.
+Oo UB33 Pelvic portion of the sympathetic nerve.
+
+GO UB32 Pelvic Splanichnic nerve.
+
+GO UB30 Sphincter muscle of U. B. and Rectum.
+
+oO UB29 Thoracic Vertebrae.
+
+O UB27 Sacral joint.
+
+O UB24 Abdominal portion of the sympathetic nerve.
+0 UB22 Back Shu point of adrenal gland.
+
+Oo UB16 Thoracic portion of the sympathetic nerve.
+Oo UB12 SMP bone system.
+
+Go usB11 SMP full spinal vertebrae.
+
+G UB10 Bulb of Medulla.
+
+Oo UB9 Pons.
+
+Oo UB8 Pineal Gland.
+
+O UB2 Frontal Sinus.
+
+According to EAV following plexuses affect Urinary Bladder Meridian. Itis called
+Autonomic Innervation Point (AIV) :
+
+© Lower Hypogastric Plexus UB63
+e — Prostrate Plexus UB 49d
+e Uterus Vaginal Plexus
+e Cavemous Plexus UB 50c

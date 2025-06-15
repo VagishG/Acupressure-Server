@@ -1,0 +1,64 @@
+Measurement Point
+
+FatD1
+Pn)
+
+Fat D1b (CMP)
+Fat D2
+
+Fat D3 (+ Pn 4)
+
+Fatty degeneration of organs in abdomen (Liv, K,
+
+Fatty degeneration
+
+Fatty degeneration of organs in chest
+
+(H, heart muscles, Coronary vessels, arteries)
+Fatty degeneration of organs in head
+
+(cerebral sclerosis, cerebromalacia)
+
+Fib D1 Fibrous degeneration in abdomen and pelvis
+(Pyloric Stenosis, Stricture of Ureter)
+
+Fib D1b (CMP) Fibrous degeneration
+(Benign fibrous tumors, adenomas, lymphangioma)
+
+Fib D1c (CMP) Fibrous degeneration in mucous membranes
+(Benign papillomas, pglyps)
+
+Fib D2 Fibrous degeneration in chest and neck
+(Oesophagus /H valves stenosis)
+
+Fib D3 Fibrous degeneration in head
+
+JD 1 (+ GB 33) Lower limb, sacral, iliac and lumbar joints (pelvic
+
+girdle)
+
+JD 1-1 Focal toxic irritation of joints
+
+JD 1a Articular degeneration (allergic irritation)
+
+JD 1b CMP for all joints + vertebrae
+
+JD 1c Synovial membrane
+
+JD2 Joints of the shoulder and arms (+ Tw 15)
+
+JD3 Joints of cervical spine and jaw (Tw 23, St 2)
+
+Sk1 Skin of the lower part of the body (+ legs)
+
+Sk 1-1 Lymph of skin
+
+Sk 1-2 Allergy of skin
+
+Sk 1-3 (CMP) Skin and scars
+
+Sk 1a Scars
+
+Sk2 Skin of the upper parts of the body (arms and neck)
+
+Sk3 Skin of the head

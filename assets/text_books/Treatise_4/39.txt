@@ -1,0 +1,40 @@
+Q Sst8&d Pharyngeal Plexus.
+
+Q St8c Neck portion of Vagus Nerve.
+Q St&b Palatine Tonsil.
+
+Q = Sst8a Submandibular Gland.
+Q st8-3 Submandibular Ganglion.
+Q st8-2 mesentry of Pharynx.
+
+Q sté-1 Lower Teeth 4 and 5.
+
+Q St5a Hypoglossus Nerve.
+
+Q  St3b SMP Pharynx.
+
+Q = St3a-1 Epipharynx.
+
+Q St3a Lingual Tonsil
+
+Q S$t3-3 Sublingual Gland.
+
+Q st3-2 Tongue
+
+Q st3-1 Lower jaw Odonton 6.
+
+In EAV following 32 points are redefined on Stomach Meridian which Increases
+thelr usefulness :
+
+Q St45 (R) Pylorus.
+Body of Stomach.
+
+Q St44 (R) Pyloric Antrum.
+
+(L) Formix of Stomach, Fundus.
+Q St43 (R) Right body of Stomach.
+
+(L) Cardia of Stomach.
+Q st42 Upper portion of Oesophagus.
+Q st41 Second M. P. for Ankle Joint.
+Q st35 Second M. P. for the Knee Joint.

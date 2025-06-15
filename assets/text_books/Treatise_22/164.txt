@@ -1,0 +1,45 @@
+23) Muscle spasm in forearm
+24) Swelling in forearm
+
+25) Forearm trembling
+
+26) Intermittant pain in forearm
+27
+28) Intercoastal arm neuralgia
+
+Forearm spasm
+
+29) Neuralgia of forearm extending to neck :
+
+30) Neuralgia of arm extending to teeth
+31) Pain in middle of forearm
+
+32) Radial neuralgia
+
+33) Pain in median nerve
+
+34) Arthritis of arm
+
+35) To pronate and flex forearm
+
+36) Pain in arm and wrist
+
+H2,Si3,4,74
+K7T
+
+H3t
+H3,6,74
+Si3,Tw24
+Lugd
+Twit
+
+Li2d
+Lu4,3d
+Lua)
+P4,6,H24
+Tw5, Si6, 11%
+H3
+
+Si 2, Tw2, 34
+
+Q00

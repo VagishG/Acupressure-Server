@@ -1,0 +1,10 @@
+24) Right Inner Thigh Part Injury :
+
+Rt.lFistSpm - 3,4,945,6,0f
+(See Handbook 1st, Page No. 74)
+
+25) Right Outer Thigh Region Injury :
+
+Rt.IF2ndSpm -  3,4,945,6,0f
+(See Handbook 1st, Page No. 74)
+

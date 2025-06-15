@@ -1,0 +1,69 @@
+5) 5RLVM on thumbs.
+
+fs
+
+89 61
+
+1948
+sto
+
+ooo
+Rt thumb
+2/3 RLVM
+
+Rt thumb Rt thumb
+0/1 RLVM 0/2 RLVM
+
+6 6
+j2 2
+8 89 91
+9
+Rt thumb Rt thumb
+
+5/8 RLVM 8/9 RLVM
+
+Rt thumb
+7/9 RLVM
+
+6) 5 Long Vertical Meridians LVMs on thumbs
+
+6
+="
+1 6 1
+r ()
+Rt thumb Rt thumb Rt
+0/9 LVM 1/18 LVM 277 LVM
+
+‘
+247 2
+1
+
+Rt thumb
+
+3/6 LVM
+
+Rt thumb
+4/5 LVM
+
+4
+7
+
+eal
+99
+
+Rt thumb
+1/4 RLVM
+
+aloes
+2
+1
+0fog—
+Rt thumb
+
+6/7 RLVM
+
+saa
+
+1
+
+thumb

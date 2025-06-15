@@ -1,0 +1,18 @@
+6 79 8 5
+
+(LMM) (RMM)
+
+Classification of Spinal Nerves on RMM :
+
+RMM * -0 Coccyx +8, +8,
+RMM * - 1 S,+S,+8,
+RMM * -2 L,+L,+L,
+RMM * - 3 L,+L,+D,,
+RMM > - 4 D,,+D,+D,
+RMM * - 5 D,+D,+D,
+RMM * - 6 D,+D,+D,
+RMM * - 7 D,+D,+C,
+RMM * - 8 C.+C,+C,
+RMM % - 9 C,+C,+C,
+
+In the above table, for related nerves, treatment is given using normal oe SM.

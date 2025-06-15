@@ -1,0 +1,5 @@
+(d) Cross Legs :
+LMM +r 1, 2,7, 8 Cy sm
+
+RMM * 1,2,7,8 sm
+

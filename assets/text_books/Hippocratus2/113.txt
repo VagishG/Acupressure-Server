@@ -1,0 +1,14 @@
+Luecoderma
+‘ 12) Luecoderma (Vitiligo) :
+
+It causes patches of skin to become lighter. In vitiligo, parts of the skin stop
+producing melanin. The result is symmetrical white patches that often occur on the
+face, hands, arm pits and groin.
+
+i) |RtHand Luecoderma:
+
+RtRFallLVM -  3¥ 4f
+
+ii) LtHand Luecoderma:
+LtRFallLVM -
+

@@ -1,0 +1,49 @@
+AD 1
+AD 1a
+
+AD 1b (CMP)
+
+AD 1c (SMP)
+
+AD 2 (Allergic Asthma)
+
+AD 3 (+Ly 2, 3)
+nus, nose)
+
+OR 1
+OR 1-1
+OR 1a
+OR 1b (CMP + GV 23 - 1a)
+OR 1c
+OR 1d
+OR2
+OR3
+OR4
+OR5
+OR6
+
+Allergy, Lower half of body (Skin, Organs, Pelvis)
+Allergy of Autonomic Nervous System
+
+Allergy
+
+Vascular Sclerosis - lining of blood vessel
+Allergy upper half of body (Chest, Neck)
+
+Allergic processes in head and mouth (Brain, si-
+
+Degeneration in abdomen and pelvis
+Lymph due to degenerated cells or organs
+Autonomic instability for organ degeneration
+Degeneration (not Endcrine and Mammary Glands)
+Degeneration in peritoneum
+
+Degeneration in pleura
+
+Degeneration in chest and neck
+Degeneration in head
+
+Degeneration of organs in Abdomen
+Degeneration of organs in Chest and Neck
+Degeneration of organs in Head
+

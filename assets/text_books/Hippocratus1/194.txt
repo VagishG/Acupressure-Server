@@ -1,0 +1,62 @@
+Case No.-59
+
+Therapist
+
+Name of Patient
+Age
+
+Address
+
+Phone
+
+Symptoms
+
+Protocol
+
+Result 4.10.09
+
+Itching in Head
+
+Shri J. P. Agrawal
+
+Shri Sanjeev
+
+37 years
+
+Mamfordganj, Allahabad.
+979597165
+
+3.10.09
+
+Head itching — 1% months
+
+3.10.09
+
+Rt SF 9th Spr. - 2,341,47
+
+75% Relief.
+
+Sleep
+Thirst
+Urine
+
+Appetite :
+
+Taste
+
+Stool
+
+Emotion :
+
+Normal
+
+3 ltrs.
+
+4-5 times in day
+Normal
+
+Sweet
+
+Clear
+
+Joy

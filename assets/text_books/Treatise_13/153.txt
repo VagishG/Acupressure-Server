@@ -1,0 +1,57 @@
+e Kidney
+e = -Ureters
+
+e —_Urinary bladder
+
+e = -Urethra
+e = - Penis
+
+e — Testicles
+e = Vagina
+
+e = -Uterus
+
+e ‘Fallopian tubes
+
+e = Ovaries
+e Breasts
+e  =Back
+
+e Chest
+
+e = Pubis
+
+Most Active Points for
+the Treatment of Urinary Tract Organs
+
+Sp 6, 9, St 36
+Sp 6, 9, UB 23
+
+UB 22, 23, 24, 31, 32, 33, 34, CV 4, Sp 6, 9
+
+Sp 6,9, CV4
+
+Sp 6, 9, St 29, 30, Liv 1, CV 4
+
+Sp 6, 9, CV 3, 4, UB 23, 42, 47
+
+Sp 6, 9, 10, CV 2,3
+
+UB 22, 23, 25, CV 3, 4, 6, Sp 1, 2,6, 9, 10, K 1
+CV 3, 4, 6, Sp 6, 9, St29
+
+UB 23, St 29, Liv 1, Sp 6, 9
+
+St 18, UB 15, CV 17, GB 21
+
+UB 54, Tw 3, GV 14
+
+P 5, 6, Lu7, 9, GB 34,H8
+
+CV 2, 3, 4, Sp 6, 10
+
+oo
+
+A Treatise on
+Advance Acupressure / Acupuncture - Part 13 - English
+

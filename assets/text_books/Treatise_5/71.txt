@@ -1,0 +1,64 @@
+Vi.
+
+Vil.
+
+vill,
+
+Trochlear Nerve:
+
+ND 1a, ND 1b, ND 3a, ND4
+
+oO Gb9 SMP Midbrain (Nucleus of Oculomotor nerve is in Midbrain)
+O ~~ Eyeor1 MP Trochlear nerve
+
+QO GB10a_ MP Preganglionic branches of parasympathetic nerve in the midbrain
+0 tly2a RP Lymph drainage of eyes.
+
+Trigeminal nerves
+
+ND 1a, ND 1b, ND 3a ND 4
+
+GQ UuBg9 MP Pons, (Nucleus of trigeminal nerves is in pons)
+O GB3 MP trigeminal nerves
+
+QO  UB10 MPMedulla
+
+Abducens Nerve
+
+ND 1a, ND 1b ND 3a, ND 4
+
+O UB9 MP Pons (Nucleus of Abducens nerve is in pons)
+Oo Eye2 MP abducens nerve
+
+GO tly2a MP Lymph drainage of eyes.
+
+Facial nerve
+
+ND 1a, ND 1b ND 3a, ND 4
+
+o UB9 MP Pons (Nucleus of facial nerve is in pons)
+
+OG Tw 16a-1 MP facial nerves
+
+Vestivulo cochlear nerve
+
+ND 1a, ND 1b ND 3a, ND 4
+
+OG uBg9 MP Pons (Nucleus of Vesivulo nerve is in pons)
+
+Si 18 MP Vestibulo cochlear nerve
+
+Si18a MP optic ganglia
+
+Si 19 MP external ear & external auditory canal
+
+Tw 18 SMP internal ear & petrous bone
+
+Treat disturbance of equilibrium or balance. When patient feels
+disbalanced due to disequlibrium, it can be due to problem in internal
+
+Qaaqa
+
+A Treatise on ; 163
+Advance Acupressure / Acupuncture - Part 5 - English
+

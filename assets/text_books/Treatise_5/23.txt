@@ -1,0 +1,33 @@
+Gall Bladder
+
+Gall bladders have following parts. Treatment points related to these parts are given
+below:
+
+GO GB42 Gall Bladder
+O GB 43(L) Right Hepatic Duct
+O GB 41 (R) Biliferic Ducts in the right Liver Lobe
+a GB 41 (L) Biliferic Ducts in the left liver lobe
+a GB 42 (L) Left Hepatic Duct
+o GB 44 (L) Common Hepatic Duct
+This duct gets bile directly from liver
+a GB 43 (R) Cystic Duct
+a GB 44 (R) Common Bile Duct
+This duct carries bile to duodenum.
+Control Measurement Point
+O GB43b CMP Gall Bladder & Bile Ducts
+Nerve Supply
+i) GB 43c Hepatic Plexus (Liver Plexus)
+Peritoneum
+a GB 43a Peritoneum
+Lymph
+OG GB43d Lymph Vessel of Gall Bladder
+Lymph Drainage of bile ducts
+a Ly 11 SMP for Lymphatic Process in Gall Bladder
+
+a Sp 14/Pn 14 Lymph nodes of Gall Bladder.
+Lymph nodes of bile ducts.
+GO vUB43 Lymph of Gal! Bladder
+
+A Treatise on
+Advance Acupressure / Acupuncture - Part 5 - English 119
+

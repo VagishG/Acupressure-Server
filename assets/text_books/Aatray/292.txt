@@ -1,0 +1,62 @@
+Body
+
+7
+
+Organ
+1- Lungs
+2- Heart
+3- Liver s
+4- Spleen
+5- Kidney
+
+6- Stomach
+
+7- Small Intestine
+
+8- Gall Bladder
+
+9- Large Intestine
+410- Urinary Bladder
+
+ONVA
+
+Action & Sense Organ
+4- Ear
+
+2- Skin
+
+3- Eye
+
+4- Tongue
+
+5- Nose
+
+6- Speech
+
+7- Legs
+
+8- Arms
+
+9- Urogenital organ
+10- Anus
+
+Endocrine Gland
+1- Gonads
+
+2- Adrenal
+
+3- Pancreas
+
+4- Thymus
+
+5- Thyroid
+
+6- Parathyroid
+
+7- Hypo Thalamus
+8- Pitiutary
+
+9- Pineal
+
+10- Thalamus
+

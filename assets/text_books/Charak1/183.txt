@@ -1,0 +1,32 @@
+6 Hzm Nerves
+
+7 Hzm Lymph
+8Hzm Hepatic Vein
+9 Hzm Hepatic Ducts
+10 Sub-division of Lungs are classified as 10 Hzm on Right Small Finger.
+Rt SF 10 Hzm 10 Parts of Lungs
+Lungs 0 Hzm Base
+1 Hzm Superior Lobe (R)
+2Hzm Superior Lobe (L)
+3 Hzm Inferior Lobe (L)
+4Hzm Middle Lobe (R)
+5 Hzm Inferior Lobe (R)
+6 Hzm Hilum
+7 Hzm Pleura
+8 Hzm Serous/Pleural Fluid
+9 Hzm Apex
+10 Sub-division of Kidney are classified as 10 Hzm on Right Index Finger.
+Rt IF 10 Hzm 10 Parts Kidney
+Kidney- 0 Hzm Capsule
+1 Hzm Cortex
+2Hzm Medulla (Pyramid)
+3 Hzm Pappila of Medulla
+4Hzm Minor Calyx
+5 Hzm Major Calyx
+6 Hzm Pelvis
+7 Hzm Ureter
+8 Hzm Renal Artery
+9 Hzm Renal Vein
+
+Note: The remaining divisions of VM and HZM are given in Ayurvedic Handbook
+vol-2.

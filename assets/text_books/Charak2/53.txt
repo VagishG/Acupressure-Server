@@ -1,0 +1,15 @@
+RMM Branch Treatment :
+RMM * 7, 8,9 - 4,5, 943, 6, 0 (at each pt.)
+
+RMM RMM
+
+(Br.-Normal flow) | we #9 #7 (Br.-Opposite flow)! xg a9 7
+
+In the same way, treatment can be given on all points.
+RMM * 0 - Plotting of ten points
+
+RMM
+(Br.-Opposite flow)
+
+RMM
+(Br.-Normal flow)

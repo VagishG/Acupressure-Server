@@ -1,0 +1,11 @@
+Painful Finger (Left Hand)
+(are Suet F ad) :
+LtRF9Spr -6,8,10,5T
+
+Painful Finger (Right Hand)
+(ae Suet Hag) :
+RtRF9Spr —- 6,8,10,57
+
+Colour eee
+
+% Therapy

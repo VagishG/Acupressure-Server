@@ -1,0 +1,14 @@
+Liver Meridian
+Points .1 to .9
+
+Right Lower Limb
+4 8
+
+t
+
+Right Feet
+1-3
+
+External
+Malleolus
+

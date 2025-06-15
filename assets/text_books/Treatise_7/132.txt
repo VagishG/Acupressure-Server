@@ -1,0 +1,22 @@
+Si9, 11, 12 Scapular and back pain
+
+Si9, 10, 3, Li15 Arm pain with motor impairment
+Si9, Li15 Injury to auxillary nerve
+Si6, 10, Li 15, Tw 14 Pain of shoulder and arms with motor impairment
+Si 10, CV 22, GB 20 Pain of shoulder referring to upper back
+Si 10, 3,GB21 Shoulder Pain
+Si 11,6, Li11, 15, Tw14 Peripherial inflammation of shoulder joint
+Si 11, CV 17, St 18, Si1 Mastitis and deficient milk
+Si11,UB13 Cough and Asthama
+$i 12, Lu2 Shoulder pain with motor impairment
+Si 12, 17 Wandering pain of shoulder region
+Si 12, GB 20, Ub 10 Stiffness of neck
+$i11, 12,3 Scapular and back pain
+Si17,Li4,Lu11 Tonsilitis and pharyngities
+Si17,Li4 Mumps
+Si 19, GB 2, 11, Tw3, GB 38 Tinnitus and deafness
+Si 19, St7, Li4 Lower Mandibular arthritis
+Si19, Tw 17,5 Otitis Media
+Q00
+218 Aavanee ‘Acupressure / Acupuncture - Part 7 )
+

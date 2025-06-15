@@ -1,0 +1,59 @@
+CASE - 17
+Therapist
+Patient
+
+Age
+
+Address
+
+Disease & Prob. :
+Treatment
+
+Result
+
+CASE - 18
+Therapist
+
+Patient
+
+Age :
+Disease & Prob. :
+Treatment
+
+Result
+
+Smt. Kalpana Mishra
+Smt. Kamti Devi
+
+40 Years
+
+Allahabad
+
+Temporal Headache
+
+The treatment was given on the following
+points.
+
+LRUSBM J Ill Black Colour
+(Left/Right upper side border meridian)
+J II Black Colour / T VI Black Colour
+
+To much relax after 15 days. No pain
+after months.
+
+Sri A.K. Pandey
+
+Smt. Kiran Mishra
+
+C.M.O. Compound, Medical College, Alld.
+Migrain on Left Side
+
+The treatment was given by colours on
+the following points.
+
+LUSBM_ J III black colour
+(Left upper side border Meridian)
+T VI black cclours
+
+The patient got recovered completely
+after giving treatment.

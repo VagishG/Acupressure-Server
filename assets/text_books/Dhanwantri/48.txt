@@ -1,0 +1,24 @@
+1 - THORAX VENOUS FLOW
+[F-1, 0 VM, Opposite Flow ]
+
+F-4
+10VM(OF)| Thorax - 10 Veins Drainage Area
+
+Mediastinal Central Chest Area
+
+1 Bronchial Lf & Rt Bronchi
+
+2) Pericardial ’| Pericardium (Heart)
+3. Oesophageal . . Oesophagus
+
+Intercostal (Posterior) Lf & Rt Ribs
+
+Rt. Superior Intercostal 2, 3, 4 Ribs (Rt side)
+
+6. Lf. Superior Intercostal 2, 3, 4 Ribs (Lf side)
+
+(Lf.) Hemiazygos & Accessory Hemiazygos]| Right Thorax
+8 (Rt) Azygos Right Thorax
+
+R Superior Venacava Collection of Thoracic venous blood
+

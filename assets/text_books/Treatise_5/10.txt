@@ -1,0 +1,33 @@
+Heart
+
+Heart has following parts treatment points related to these parts are given below.
+
+a H 9(R) Aortic Valve
+qa H_ 8a (L&R) Pericardium & Sub pericardial
+a H_ 8b (L&R) Endocardium (It cause the valves of heart)
+o H 6(R) Myocardium Right
+a H6(L) Myocardium Left
+GH B(l) Mitral Valve
+o H 7a (L) Left branch of the bundle of HIS
+a H 7a (R) Artioventicular Node (AV Node)
+ia} H9(L) Pulmonary Valve
+a H 6a (R) Sino Auricular Node (SA Node) (Pace Maker)
+a H 6a (L) Left Sino Auricular Bundle
+a H7(L) HIS conduction-system of Left Heart
+a H 8 (R) Tricuspid Valve.
+O H7(RA) HIS conduction system of Right Heart
+Control Measurement Point
+ao 4H 8 CMP Heart
+Nerve Supply
+0H Be (L&R) Cardiac Plexus
+GO Ci7a (L&R) Coronary Plexus
+G Ci 8e (RA) Cardiac Ganglion
+Lymph Drainage
+oO H8f Subendocardial Lymph Vessel Net
+a H8d Myocardia Lymph Vessel Net
+a H8a Pericardium & Sub pericardial Lymph Vessel Net
+a ly5 PSMP for lymph vessel of Heart & Pericardium.
+
+A Treatise on (407
+Advance Acupressure / Acupuncture - Part 5 - English
+

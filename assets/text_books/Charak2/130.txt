@@ -1,0 +1,6 @@
+(iv) Rt Parietal lobe :
+RtMF all RLHM(OF) - 4.5, 94. 3,6. 07
+
+(v) Lt temporal lobe :
+LtRFallRLHM(OF) - 4,5, 94.3, 6, 0T
+

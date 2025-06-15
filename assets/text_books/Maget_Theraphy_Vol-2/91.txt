@@ -1,0 +1,17 @@
+Chapter-6
+
+General Treatment Protocols
+
+1. Epilepsy:
+
+BothSFKJt. - 1,2,940,5,6f
+
+Add day wise treatment (Time Acupuncture)
+
+Sunday WNCH(0) - 1,2,940,5,6f
+Monday WNCH(1) - 1,2,940,5,6f
+Tuesday WNCH(2) - 1,2,940,5,6T
+Wednesday %%®NCH(3) - 1,2,940,5,6f
+Thursday ¥NCH(4) - 1,2,940,5,6T
+Friday WNCH(5) - 1,2,940,5,6f
+Saturday WNCH(6) - 1,2,940,5,6T

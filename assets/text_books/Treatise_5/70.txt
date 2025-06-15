@@ -1,0 +1,43 @@
+Treatment of cranial Nerves
+
+|. Olfactory Nerve
+G ND1a_— SMP for the entire nervous system
+
+GO  ND1b CMP for nerve Degeneration of peripheral & central nervous system
+including all 12 pairs of cranial nerves & 31 pairs of spinal nerves
+
+O ND3a_ CMP for parasympathetic & sympathetic nerves in cranium.
+
+GO ND4 _— CMP forall 12 pairs of cranial nerves.
+
+O ~—-GV23-1 CMP forebrain (Nucleus of Olfactory nerve is in Forebrain)
+
+O UB 2a-1_ MP Olfactory nerve
+
+ao ty3 RP Lymph drainage of nose & nasal & Paranasal sinuses.
+I. Optic Nerve
+
+ND 1a, ND 1b, ND 3a, ND 4 Details are given in | above.
+O GV 23-1 CMP forebrain (Nucleus of optic nerve is in forebrain)
+0 GB1-1 MP optic nerves
+
+Oo GB1 P.S.M.P. for posterior portion of the eye which includes the entrance
+spot of the optic nerve.
+
+0 ly2a R.P. Lymph drainage of eye
+O GB14 ~~ MP. Lateral geniculate body
+
+Lateral geniculate body works as a transformer of optic nerve. In atrophy of optic nerve
+to reduce the swelling & inflammation of optic tract treat this point -
+
+O Eye 4MP Retina (Optic nerve emerges from near the layer of retina)
+Ill. Oculomotor Nerve
+ND 1a, ND 1b N3a, ND 4
+oO GB9 SMP Midbrain (Nucleus of Oculomotor nerve is in midbrain)
+OG Eye3 MP Oculomotor nerve
+O GB10a_ MPpreganglionic branches of parasympathetic nerve in the midbrain.
+oO ly2a RP lymph drainage of eye.
+
+A Treatise on
+Advance Acupressure / Acupuncture - Part 5 - English
+

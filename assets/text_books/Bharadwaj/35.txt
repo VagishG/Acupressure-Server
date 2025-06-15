@@ -1,0 +1,7 @@
+20) Allergy from water
+Rt SFO Vm 1t 4)
+
+21) Allergy from food
+Rt SF 0 Vm 15d
+
+[130]

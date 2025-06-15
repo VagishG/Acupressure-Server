@@ -1,0 +1,73 @@
+Case No.-12
+
+Therapist
+Patient
+Age
+Address
+Phone
+Symptoms
+24.1,09
+
+History
+
+Protocol
+
+24.1.09
+
+Gastric & other multiple problems -
+Pyrrhoea, Menses disorder etc.
+
+Shri J. P. Agrawal
+
+Smt. Radha Agrawal
+
+46 years
+
+Kaushambi
+
+9936787870
+
+1. Gastric problem — 2-3 yrs.
+
+2. Constipation — 1 yr.
+- Quantity
+- Hard stool
+- Once
+- Time taking — 15 min.
+
+Pyorrhoea — 2 yrs.
+4. Heaviness & fullness
+
+Chest burning in abdomen — 2-3 yrs.
+- Nausea feeling
+
+6. Headache — 2-3 yrs.
+
+7. Period stopped ~— 5 months
+Family planning op. (15 yrs. back)
+Pulse - 100 per min.
+
+1 Both MF 9th VM -
+2. NCH (0, 2, 9) OF -
+3. Lt SF 4/5, 8/9 RLVM -
+4 Rt thumb 0 VM -
+
+Sleep 10:30 - 6:30 am.
+Thirst 3 Itrs
+
+Urine 6-7 times in day
+Appi. Normal
+
+Taste Salty
+
+Stool Constipation-Hard
+Menses : Closed -5 months
+Emotion Normal
+
+4,51 3,67
+
+4,5, 91 3,6, of
+
+4,5,91 3,6, of
+
+4,51 3,6

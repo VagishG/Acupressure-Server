@@ -1,0 +1,66 @@
+CASE-5
+Theraptist
+Patient
+Age
+Address
+
+Disease & Prob. :
+
+Treatment
+Result
+
+CASE - 6
+Therapist
+Patient
+Age
+Address
+
+Disease & Prob. :
+
+Treatment
+Result
+
+CASE -7
+Therapist
+Patient
+Age
+Address
+
+Disease & Prob. :
+
+Smt. Nisha Bajpai
+
+Sri Vikas Agarwal
+
+38 Years
+
+Ucha Mandi, Allahabad
+
+Red Urticaria in Legs
+
+Black Colour on G8 43 and GB40
+
+After giving the treatment, the urticaria
+got removed.
+
+Sri. A. K. Panday
+Km. Menakshi Tiwari
+19 Years
+
+Sri Ramchandra Mission Aashram,
+Sahajpuram, Mundera, Allahabad.
+
+Burning and excess sores in Tongue.
+Black Colour on P-8
+
+After giving the treatment, the patient got
+relaxed completely.
+
+Sri Arun Kumar Singh
+
+Sri Anil Kumar Singh
+
+35 Years
+
+322 / |J, Jagmal ka Hata, Allahabad
+Acute Pain in head from 7:00 P.M.

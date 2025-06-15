@@ -1,0 +1,33 @@
+Xl.
+
+Xi.
+
+Glossopharyngeal nerve
+
+ND 1a, ND 1b, ND 3a, ND 4
+
+G  UB10 MP Medulla (Nucleus of glossopharyngeal nerve is in Mdedulla)
+0 Tw22  MPglossopharyngeal nerve
+
+Vagus Nerve
+
+ND 1a, ND 1b, ND 3a, ND 4
+
+O  UB10 MP Medulla (nucleus of vegus nerve is in medulla)
+
+GO = GBt1ib MP Nucleus of the vegus nerve in medulla oblongata.
+Accessory Nerve
+
+ND 1a, ND 1b, ND 3a, ND 4,
+
+O  UB10 MP Medulla (Nucleus of accessory nerve is in medulla)
+© _=sUP 10a-1 MP Accessory nerve
+
+Hypoglossal Nerve
+
+ND 1a, ND 1b, ND 3a, ND 4
+
+O UB10 MP medulla(Nucleus Hypoglossal nerve is in medulla)
+Oo St5a MP. Hypoglossal Nerve.
+
+ooo

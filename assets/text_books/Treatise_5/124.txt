@@ -1,0 +1,38 @@
+UY
+Protocols
+Wry, wz
+
+Fatty Liver:
+Oo FatD1 4 Fatty degeneration in organs & vessels in
+abdomen including fatty liver.
+0 FatDib 4 CMP fatty degeneration of organs & vessels
+of the whole body.
+0 Sita(R) L Upper mesenteric plexus
+O Pn4 4 Fat & zipid digestion & metabolism
+gq tivia L C.M.P. liver
+0 tiv2 + MP. liver lobuli system. A deficiency on Liv 2
+indicates an alimentary fat liver.
+0 Liv3 4 Treats inflammation of connecting tissues of
+liver.
+Fatty Heart:
+O Fatb2 L Fatty degeneration in organs & vessels of
+chest including fatty degeneration of heart.
+a Fat Dib L C.M.P. fatty degeneration of organs & vessels
+of the whole body
+0 Si1a(R) + Upper Mesentric Plexus
+GO Pn4 L Fat & lipid digestion & metabolism
+GO H8c 4 C.M.P. Heart
+Go tlys L M.P. for lymph congestion at heart
+a H7 L HIS conduction system of heart
+Fatty Brain
+G FatD3 L Fatty degeneration in organs & vessels of skull
+including fatty degeneration of brain vessels
+0 FatDtb 4 C.M.P. fatty degeneration of organs & vessels
+of the whole body
+a ND ta t S.M.P. for entire autonomic nervous system
+i.e. brain & spinal cord both
+GO NDte t M.P. for meninges surrounding the brain
+A Treatise on 211
+
+Advance Acupressure / Acupuncture - Part 5 - English
+

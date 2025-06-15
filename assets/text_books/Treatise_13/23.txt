@@ -1,0 +1,42 @@
+EAV Urinary Bladder Meridian (UB Meridian)
+
+Urinary Bladder Meridian has the following Control Measurement Points :
+GO UB66b CMP for Urinary Bladder
+oO UB2a CMP for Brain Stem
+
+Urinary Bladder Meridian has the following Summation Measurement
+Points :
+
+GO UB65 PSMP for Anterior & Posterior Urethra
+oO UB64 PSMP for Vas Deferens
+
+oO UB12 SMP for Bone System
+
+oO UB SMP for Spine (All Vertebrae)
+
+Urinary Bladder Meridian has one Peritoneum Measurement Point.
+
+Peritoneum is thin protective serious coating on the surface of the organ :
+
+oO UB66a PMP for the serious coating of Urinary Bladder, Uterus,
+Ovaries, Tube etc.
+
+Urinary Bladder Meridian has one Lymphatic Drainage _of the Urinary
+Bladder which is UB 66d. This is an important point for urinary bladder &
+urinary tract and for the boils, cyst & nodes.
+
+Diagnosis relating to Urinary Bladder Meridian Points :
+G Anexcess of energy of UB 66 & UB 67 (L & R) indicates an acute cystites.
+QC Asslow indicator drop begining with value below 80 at all the measurement
+points on both sides of Urinary Bladder Meridian indicates that prostrate
+has been operated.
+Q__sIndicator drop on one side of the Urinary Bladder Meridian shows that an
+irritation in the urinary bladder is caused by :
+In Males :
+e Prostrate
+e@ The seminal vesicle
+@ The Deferent Canal
+
+A Treatise on 419
+Advance Acupressure / Acupuncture - Part 13 - English
+

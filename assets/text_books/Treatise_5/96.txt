@@ -1,0 +1,42 @@
+UL” 777
+
+Y”
+, Allergies
+
+Year,
+
+In Females: Parametrium
+
+Uterus
+Pars interstitialis of the uterene
+tube vagina
+Urethra & Bartholin's Gland
+QO  UB63 Lower Hypogastric Plexus
+ao Tw P.S.M.P. for Glands
+G UBS1 Penis or Vagina
+OO UB50c Cavemus sinus or plexus of penis or clitoris
+oa UB 50b Cowper's Gland, Bartholin's Gland
+G UB50a Seminal Hillock, Broad Ligament of
+Parametrium & Uterus
+OO UB50-2 Pcrastratic Sirtus.,'Vactival. Part rat Uterus
+GO UBS50-1 Middle Lobe of Prostrate, Nerve of Uterus
+Oo UB50 Lateral Lobe of Prostrate, Body of Uterus
+a UB 49d Deferential, Seminal & Prostratic Plexus
+Uterovaginal Plexus
+GO UB49b Spermatic Cord
+Ampulla of Tubes
+O UB 49 Seminal Vesicle
+Uterine Tube
+OG  UB49a Epididymis of Ostium
+
+Abdominal opening of the fallopian tube
+
+Special Note UB 65 : P.S.M.P. Anterior & Postrerior Urethra Treats Bartholin's Glands.
+These are two glands on both the sides of external part of vagina. It keeps vagina smooth
+and wet during mating.
+
+ooo
+
+A Treatise on 187
+Advance Acupressure / Acupuncture - Part 5 - English
+

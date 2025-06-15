@@ -1,0 +1,10 @@
+26) Treatment of heart disease due to right atrium, right ventricle
+& S.A. node:
+
+LtSF-1VM - 4,513, 6
+
+27) Heart disease due to infection in right atrium, right ventricle & S.A.
+node:
+
+LtSF-OVM — 4,913, oT
+

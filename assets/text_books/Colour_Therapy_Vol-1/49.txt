@@ -1,0 +1,15 @@
+10
+
+Chronic Arthritis (sftef afean) :
+
+(Causing Low Backache, Neck Pain, Hip and
+Pain at Ankle Joints)
+
+RMM * 0 - Black Colour
+RMM + 1 - Violet Colour
+RMM ** 2, %*3 - — LightBlue Colour
+RMM ** 4 - Yellow Colour
+RMM * 5 - Orange Colour
+
+Colour eee
+Therapy

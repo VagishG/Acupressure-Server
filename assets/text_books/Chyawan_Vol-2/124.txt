@@ -1,0 +1,10 @@
+Add day wise treatment (Time Acupuncture) :
+
+Sunday WNCH(0)- 2,3,4,91 0,5,67
+Monday WNCH(1)- -2,3,4,91 0,5,67
+Tuesday WNCH(2)- 2,3,4,910,5,67
+Wednesday %&NCH(3)-  2,3,4,91 0,5,6T
+Thursday 3 NCH (4) - 2,3,4,9) 0,5,6T
+Friday WNCH(5)- 2,3, 4,91 0,5,67
+Saturday WNCH(6)- = 2,3,4,9) 0,5,6f
+

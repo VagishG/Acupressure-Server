@@ -1,0 +1,9 @@
+8) Left Ankle Injury :
+
+3 NCH (7) - 3,4,%5,6,0?
+(See Handbook 1st, Page No. 105)
+
+9) Left Hip Injury:
+NCH (6)Toe - 3,4,945,6,0f
+(See Handbook 1st, Page No. 105)
+

@@ -1,0 +1,9 @@
+BODY 10 DIVISIONS
+(Neck and Trunk as base)
+
+Treatment on Right Thumb
+[o[ Neck
+| 1] Right Upper Quadrant
+Left Upper Quadrant
+Left Lower Quadrant
+

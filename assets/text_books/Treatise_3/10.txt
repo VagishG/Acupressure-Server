@@ -1,0 +1,29 @@
+Treatment of Optic Nerve Atrophy :
+
+GB 13 1-1
+GV 23-1
+ND 3
+
+GB 14
+ND 4
+
+GB 1a
+ND 3a
+GB 1
+
+MP Optic Nerve (11)
+
+MP Fore Brain
+
+CMP Nerve Degeneration in Forebrain
+MP lateral Geniculate Body
+
+CMP Cranial Nerve
+
+MP Ciliary Ganglion
+
+CMP Parasympathetic Ganglion of Head.
+
+PSMP Posterior portion of eyes
+
+Q00
