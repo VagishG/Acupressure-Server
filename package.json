@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": " bun --hot run index.ts",
-    "production": "bun run index.ts"
+    "production": "bun install && bun run index.ts"
   },
   "peerDependencies": {
     "typescript": "^5.8.3"
