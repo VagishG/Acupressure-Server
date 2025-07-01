@@ -1,126 +1,229 @@
-// const bookMappings = {
-//   "1_Point_Treatment_for_Old_Age_Problems": "1 Point Treatment for Old Age Problems",
-//   "Aatray": "Aatray",
-//   "Bharadwaj": "Bharadwaj",
-//   "Charak1": "Charak 1",
-//   "Charak2": "Charak 2",
-//   "Charak3": "Charak 3",
-//   "Children_Health_Guide": "Children Health Guide",
-//   "Chyawan_Vol-2": "Chyawan Vol 2",
-//   "CM_in_AM_Vol-1": "CM in AM Vol 1",
-//   "CM_in_AM_Vol-2": "CM in AM Vol 2",
-//   "Colour_Therapy_Vol-1": "Colour Therapy Vol 1",
-//   "Colour_Therapy_Vol-2": "Colour Therapy Vol 2",
-//   "Constipation_-_Ayurvedic_Acu": "Constipation - Ayurvedic Acu",
-//   "Dhanwantri": "Dhanwantri",
-//   "Female_Disorders_-_Ayurvedic_Acu": "Female Disorders - Ayurvedic Acu",
-//   "Female_Disorders_-_Chinese_Acu": "Female Disorders - Chinese Acu",
-//   "Hippocratus1": "Hippocratus 1",
-//   "Hippocratus2": "Hippocratus 2",
-//   "Maget_Theraphy_Vol-2": "Magnet Therapy Vol 2",
-//   "One_point_Treatment_Book-1": "One Point Treatment Book 1",
-//   "One_point_Treatment_Book-2": "One Point Treatment Book 2",
-//   "Sushrut_Case_Manual_1": "Sushrut Case Manual 1",
-//   "Sushrut_Case_Manual_2": "Sushrut Case Manual 2",
-//   "Sushrut_Case_Manual_3": "Sushrut Case Manual 3",
-//   "Susruta_Rang_Chikithsa": "Susruta Rang Chikithsa",
-//   "Treatise_1": "Treatise 1",
-//   "Treatise_2": "Treatise 2",
-//   "Treatise_3": "Treatise 3",
-//   "Treatise_4": "Treatise 4",
-//   "Treatise_5": "Treatise 5",
-//   "Treatise_6": "Treatise 6",
-//   "Treatise_7": "Treatise 7",
-//   "Treatise_8": "Treatise 8",
-//   "Treatise_9": "Treatise 9",
-//   "Treatise_10": "Treatise 10",
-//   "Treatise_11": "Treatise 11",
-//   "Treatise_12": "Treatise 12",
-//   "Treatise_13": "Treatise 13",
-//   "Treatise_14": "Treatise 14",
-//   "Treatise_15": "Treatise 15",
-//   "Treatise_16": "Treatise 16",
-//   "Treatise_17": "Treatise 17",
-//   "Treatise_18": "Treatise 18",
-//   "Treatise_19": "Treatise 19",
-//   "Treatise_20": "Treatise 20",
-//   "Treatise_21": "Treatise 21",
-//   "Treatise_22": "Treatise 22",
-//   "Treatise_23": "Treatise 23",
-//   "Treatise_24": "Treatise 24",
-//   "Treatment_Hand_Book-Vol-3": "Treatment Hand Book Vol 3"
-// };
+// import { writeFileSync, appendFileSync, existsSync } from 'fs';
+// import fetch from 'node-fetch'; // Uncomment if using node-fetch in older Node.js
 
-// import { db } from "./src/firebase"; // update to your actual Firebase import path
+// const url = "https://www.acugyan.in/ACUGYAN/ACUGYAN/Home.aspx/GetAutoCompleteData";
 
-// async function uploadBooks() {
-//   const collectionRef = db.collection("books");
+// const cookieHeader =
+//   "name=9773727714; password=motherboy@50C; _CheckMe=true; ASP.NET_SessionId=m2wmpmy0wfjtxheascpegsnl; __AntiXsrfToken=f3a233393ddf43df8e707099939bd9ec";
 
-//   for (const [folderName, title] of Object.entries(bookMappings)) {
-//     const bookData = {
-//       folderName,
-//       title,
-//       createdAt: new Date()
-//     };
+// // File where the data will be saved
+// const outputFile = 'results.json';
 
-//     // Use folder name as doc ID (optional)
-//     await collectionRef.doc(folderName).set(bookData);
-//     console.log(`Uploaded: ${folderName} → ${title}`);
+// async function fetchData(letter: string): Promise<any[]> {
+//   const postData = { type: 'protocol', searchText: letter };
+//   try {
+//     const response = await fetch(url, {
+//       method: 'POST',
+//       headers: {
+//         'Content-Type': 'application/json',
+//         'Cookie': cookieHeader,
+//       },
+//       body: JSON.stringify(postData),
+//     });
+
+//     const json = await response.json();
+
+//     // Server returns JSON inside a `d` key: { d: [...] }
+//     const data = json.d || [];
+//     console.log(`Letter "${letter}": received ${data.length} items`);
+//     return data;
+//   } catch (error) {
+//     console.error(`Error for letter "${letter}":`, error);
+//     return [];
 //   }
-
-//   console.log("✅ All books uploaded to Firestore!");
 // }
 
-// uploadBooks().catch(console.error);
-import admin from "firebase-admin";
-import fs from "fs-extra";
-import path from "path";
-import mime from "mime";
+// async function main() {
+//   const allData: any[] = [];
 
-// Load Firebase service account
-const serviceAccount = require("./accupressure.json");
+//   for (let i = 0; i < 26; i++) {
+//     const letter = String.fromCharCode(97 + i); // 'a' to 'z'
+//     const data = await fetchData(letter);
+//     allData.push(...data);
+//   }
+
+//   // Save or overwrite the file
+//   writeFileSync(outputFile, JSON.stringify(allData, null, 2), 'utf8');
+//   console.log(`\n✅ All data written to "${outputFile}" (${allData.length} total items)`);
+// }
+
+// main();
+
+// import fs from 'fs';
+// import readline from 'readline';
+
+// const inputFile = 'results.json';
+// const outputFile = 'unique_results.json';
+
+// async function removeDuplicatesByListId() {
+//   const seenIds = new Set<number>();
+//   const outputStream = fs.createWriteStream(outputFile);
+//   outputStream.write('[\n');
+
+//   const data = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
+
+//   let first = true;
+//   let count = 0;
+
+//   for (const item of data) {
+//     const id = item.ListId;
+
+//     if (!seenIds.has(id)) {
+//       seenIds.add(id);
+
+//       // Manage commas properly
+//       if (!first) outputStream.write(',\n');
+//       outputStream.write(JSON.stringify(item, null, 2));
+
+//       first = false;
+//       count++;
+//     }
+//   }
+
+//   outputStream.write('\n]');
+//   outputStream.end();
+
+//   console.log(`✅ Done. Kept ${count} unique items (based on ListId).`);
+// }
+
+// removeDuplicatesByListId();
+
+// import fs from 'fs';
+
+// const inputFile = 'unique_results.json';
+// const outputFile = 'cleaned_results.json';
+
+// const fieldsToRemove = [
+//   "sBookList",
+//   "ProtocolSource",
+//   "IsEditProtocol",
+//   "IsDeleteProtocol",
+//   "StartPageNumber",
+//   "EndPageNumber",
+//   "ProtocolType",
+//   "BookName",
+//   "Protocol",
+//   "SubmittedBy_Name",
+//   "Submitted_Date",
+//   "OtherSource",
+//   "Reference",
+//   "BookId",
+//   "DocumentSystemGeneratedName",
+//   "Documents",
+// "prorandom",
+// "RemarksString",
+// "Symptoms_Des",
+// "__type",
+// "Id"
+// ];
+
+// function cleanData() {
+//   const data = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
+
+//   const cleaned = data.map((item: Record<string, any>) => {
+//     for (const field of fieldsToRemove) {
+//       delete item[field];
+//     }
+//     return item;
+//   });
+
+//   fs.writeFileSync(outputFile, JSON.stringify(cleaned, null, 2), 'utf8');
+//   console.log(`✅ Cleaned data saved to "${outputFile}". Removed ${fieldsToRemove.length} fields from each entry.`);
+// }
+
+// cleanData();
+
+// import fs from 'fs';
+
+// const inputFile = 'cleaned_results.json';
+// const outputFile = 'parsed_results.json';
+
+// function parseIndexText(indexText: string): { Book?: string; Page?: number } {
+//   if (!indexText) return {};
+
+//   // Extract book name (text before "- P" or ":" pattern)
+//   const bookMatch = indexText.match(/^(.+?)[\s\-–]*P\d+/i) || indexText.match(/^(.+?)[\s\-–]*:/i);
+//   const pageMatch = indexText.match(/P(\d+)/i);
+
+//   const bookRaw = bookMatch?.[1]?.trim();
+//     const pageNumber = pageMatch ? parseInt(pageMatch[1], 10) - 1 : undefined;
+
+//   const bookFormatted = bookRaw ? bookRaw.replace(/\s+/g, '_') : undefined;
+
+//   return {
+//     Book: bookFormatted,
+//     Page: pageNumber
+//   };
+// }
+
+// function enhanceData() {
+//   const data = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
+
+//   const enhanced = data.map((item: any) => {
+//     const { Book, Page } = parseIndexText(item.IndexText || '');
+
+//     return {
+//       ...item,
+//       Book,
+//       Page
+//     };
+//   });
+
+//   fs.writeFileSync(outputFile, JSON.stringify(enhanced, null, 2), 'utf8');
+//   console.log(`✅ Book and Page extracted. Output written to "${outputFile}".`);
+// }
+
+// enhanceData();
+
+import fs from 'fs';
+import admin from 'firebase-admin';
+
+// Load your service account key
+const serviceAccount = require('./accupressure.json');
 
 // Initialize Firebase Admin SDK
 admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
-    storageBucket: "accupressure-d2905.firebasestorage.app",
+  credential: admin.credential.cert(serviceAccount)
 });
 
-const bucket = admin.storage().bucket();
-const BOOKS_DIR = path.join(__dirname, "Pages");
+const db = admin.firestore();
+const inputFile = 'parsed_results.json';
+const collectionName = 'protocol';
 
-async function uploadFile(filePath: string, destination: string): Promise<void> {
-  const contentType = mime.getType(filePath) || undefined;
-
-  await bucket.upload(filePath, {
-    destination,
-    metadata: {
-      contentType,
-    },
-  });
-
-  console.log(`✅ Uploaded: ${destination}`);
+function createSearchableArray(text: string): string[] {
+  return Array.from(
+    new Set(
+      (text || '')
+        .toLowerCase()
+        .split(/\s+/)
+        .map(word => word.trim())
+        .filter(word => word.length > 1)
+    )
+  );
 }
 
-async function uploadAllBooks() {
-  const bookFolders = await fs.readdir(BOOKS_DIR);
+async function uploadToFirebase() {
+  const data: any[] = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
 
-  for (const folder of bookFolders) {
-    const fullFolderPath = path.join(BOOKS_DIR, folder);
-    const stat = await fs.stat(fullFolderPath);
+  console.log(`⏳ Uploading ${data.length} items to Firestore collection "${collectionName}"...`);
 
-    if (!stat.isDirectory()) continue;
+  let uploaded = 0;
 
-    const imageFiles = await fs.readdir(fullFolderPath);
+  for (const item of data) {
+    const docId = item.ListId.toString();
 
-    for (const imageFile of imageFiles.sort()) {
-      const localPath = path.join(fullFolderPath, imageFile);
-      const firebasePath = `Pages/${folder}/${imageFile}`;
-      await uploadFile(localPath, firebasePath);
+    // ➕ Add searchableArray from ListText
+    item.searchableArray = createSearchableArray(item.ListText || '');
+
+    try {
+      await db.collection(collectionName).doc(docId).set(item);
+      uploaded++;
+    } catch (error) {
+      console.error(`❌ Error uploading ListId=${docId}:`, error);
     }
   }
 
-  console.log("🎉 All books uploaded to Firebase Storage.");
+  console.log(`✅ Done. Uploaded ${uploaded} documents to collection "${collectionName}".`);
 }
 
-uploadAllBooks().catch(console.error);
+uploadToFirebase();

@@ -1,4 +1,5 @@
 // write.ts
+import { privateEncrypt } from 'crypto';
 import { db } from '../firebase';
 
 
@@ -93,5 +94,22 @@ export async function searchCollection<T>(
     `Found ${results.length} document(s) in '${collectionName}' where ${field} ${operator} ${value}`
   );
 
+  return results;
+}
+
+
+export async function searchProtocol(searchText: string): Promise<any[]> {
+  if (!searchText) {
+    throw new Error('Search text is required');
+  }
+
+  const snapshot = await db
+    .collection('protocol')
+    .where('searchableArray', 'array-contains', searchText.toLowerCase())
+    .get();
+
+  const results = snapshot.docs.map(doc => doc.data());
+
+  console.log(`🔍 Found ${results.length} document(s) in 'protocol' where searchableArray contains '${searchText}'`);
   return results;
 }

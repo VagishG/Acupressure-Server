@@ -20,11 +20,8 @@ export const verifyJwt = asyncHandler(
         token,
         process.env.ACCESS_TOKEN_SECRET as string
       ) as { _id: string; };
-      console.log(decodedToken);
       const data = await readData("users", decodedToken._id) as User | null;
-      console.log(data);
       if (!data) {
-        console.log("How??")
          res.status(401).json({ message: "Unauthorized Request" });
          return;
       }
